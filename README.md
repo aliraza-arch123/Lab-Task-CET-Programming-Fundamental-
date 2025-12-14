@@ -1,15 +1,15 @@
 # Lab-Task-CET-Programming-Fundamental-
-# Author:
-         Ali Raza
+<br>
+Author:Ali Raza
          <br>
-# Program:
+Program:
           BS Software Engineering – 1st Semester
           <br>
-# Subject:
+Subject:
          Computer Engineering Technology
          <br>
-# Book:
+Book:
        Programming Fundamentals
        <br>
-# Submitted to:
+Submitted to:
                Engr. Muhammad Awais
