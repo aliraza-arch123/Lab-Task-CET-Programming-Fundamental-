@@ -1,8 +1,7 @@
 # Lab-Task-CET-Programming-Fundamental-
 <br>
 Author:<br>
-Ali Raza
-         <br>
+Ali Raza<br
 Program:<br>
           BS Software Engineering – 1st Semester
           <br>
